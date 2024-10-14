@@ -29,8 +29,5 @@ This project implements a sentiment analysis and product review classification s
 - Python 3.x
 - Node.js and npm (for the React frontend)
 
-### Clone the Repository
 
-```bash
-git clone <repository-url>
-cd sentiment-analysis-product-review
+
