@@ -26,7 +26,7 @@ This project implements a sentiment analysis and product review classification s
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.11.9
 - Node.js and npm (for the React frontend)
 
 
